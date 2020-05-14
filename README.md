@@ -6,3 +6,5 @@ Currently support:
 
 - Baidu
 - Bilibili
+- Bing(国际版)
+- BingCN(国内版)
