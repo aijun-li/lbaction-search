@@ -5,19 +5,19 @@
 	<key>CFBundleIconFile</key>
 	<string>bing-icon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.LaunchBar.action.BingCN</string>
+	<string>com.mapoos.LaunchBar.action.search.bingcn</string>
 	<key>CFBundleName</key>
 	<string>BingCN</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string></string>
+		<string>Aijun Li</string>
 		<key>LBEmail</key>
-		<string></string>
+		<string>liaijun.cn@gmail.com</string>
 		<key>LBTwitter</key>
 		<string></string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>aijun-li.github.io</string>
 	</dict>
 	<key>LBScripts</key>
 	<dict>

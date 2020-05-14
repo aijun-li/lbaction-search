@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>bing-icon.png</string>
+	<string>zhihu-icon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.mapoos.LaunchBar.action.search.bing</string>
+	<string>com.mapoos.LaunchBar.action.search.zhihu</string>
 	<key>CFBundleName</key>
-	<string>Bing</string>
+	<string>Zhihu</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
