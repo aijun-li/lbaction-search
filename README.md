@@ -8,3 +8,4 @@ Currently support:
 - Bilibili
 - Bing(国际版)
 - BingCN(国内版)
+- Zhihu
