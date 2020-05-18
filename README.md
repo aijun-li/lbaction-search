@@ -9,3 +9,4 @@ Currently support:
 - Bing(国际版)
 - BingCN(国内版)
 - Zhihu
+- Douban Movie
