@@ -14,4 +14,4 @@ Currently support:
 
 ## Usage
 
-Just clone the repository and double-click on the action you need.
+Just clone the repository and double-click the action you need.
