@@ -10,3 +10,8 @@ Currently support:
 - BingCN(国内版)
 - Zhihu
 - Douban Movie
+- NPM
+
+## Usage
+
+Just clone the repository and double-click on the action you need.
