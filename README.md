@@ -10,3 +10,4 @@ Currently support:
 - BingCN(国内版)
 - Zhihu
 - Douban Movie
+- Taobao
