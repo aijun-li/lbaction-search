@@ -10,12 +10,9 @@ Currently support:
 - BingCN(国内版)
 - Zhihu
 - Douban Movie
-<<<<<<< HEAD
-- Taobao
-=======
 - NPM
+- Taobao
 
 ## Usage
 
 Just clone the repository and double-click the action you need.
->>>>>>> 84d92821aa49eae831595e5249394c8c8d57d74f
