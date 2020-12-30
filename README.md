@@ -12,6 +12,7 @@ Currently support:
 - Douban Movie
 - NPM
 - Taobao
+- JD
 
 ## Usage
 
