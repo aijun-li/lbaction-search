@@ -13,7 +13,8 @@ Currently support:
 - NPM
 - Taobao
 - JD
+- SMZDM
 
 ## Usage
 
-Just clone the repository and double-click the action you need.
+Just clone the repository and double-click the action you need to install.
