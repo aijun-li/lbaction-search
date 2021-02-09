@@ -31,8 +31,6 @@
 			<true/>
 			<key>LBLiveFeedbackEnabled</key>
 			<true/>
-			<key>LBRequiresArgument</key>
-			<true/>
 			<key>LBResultType</key>
 			<string>unknown</string>
 			<key>LBReturnsResult</key>
